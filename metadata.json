@@ -1,0 +1,8 @@
+{
+  "name": "DecisionIQ AI",
+  "description": "AI-Powered Decision Intelligence Platform to analyze options, predict outcomes, assess risks, and make smarter decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
